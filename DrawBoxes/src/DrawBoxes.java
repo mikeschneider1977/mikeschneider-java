@@ -1,5 +1,6 @@
 public class DrawBoxes {
     public static void main(String[] args){
+
         System.out.println("Draw some boxes\n");
 
         drawBox();
@@ -17,10 +18,13 @@ public class DrawBoxes {
     }
 
     public static void drawTopBot(){
+
         System.out.println("+----------+");
+
     }
 
     public static void drawSides(){
+
         System.out.println("|          |");
     }
 
